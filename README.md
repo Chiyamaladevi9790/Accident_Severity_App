@@ -3,6 +3,8 @@ ML-Powered Streamlit Dashboard Using CatBoost & Exploratory Analytics
 
 This project predicts road accident severity using machine learning and provides an interactive Streamlit dashboard for exploring accident patterns. It uses a cleaned and engineered version of the RTA Dataset and applies the CatBoost Classifier, which handles categorical data efficiently and produces explainable predictions.
 
+LINK : https://accidentseverityapp-ak9jslkrk9japvjhmnuogs.streamlit.app/
+
 The dashboard includes:
 🔍 Interactive Filters
 📊 Accident Analysis Charts
@@ -124,9 +126,6 @@ Feature Importance Graph
 
 Severity Prediction Output
 
-Dashboard Visualizations
-
-(Add your screenshots in GitHub if needed.)
 
 🧪 Tech Stack
 Component	Technology
